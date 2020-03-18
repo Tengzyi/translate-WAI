@@ -1,5 +1,8 @@
+![](/pic/1.png)
+![](/pic/2.png)
+![](/pic/3.png)
+### *以下为图片翻译*
 
-#### *以下为翻译*
 ### 保持内容精简
 ---
 视情况，使用简单的语言和格式。
@@ -27,9 +30,9 @@ CPP：万一发生车辆碰撞，公司指派的代表将寻求查明所涉各�
 
 #### 更多信息
 - WCAG
-[阅读级别3.1.5](https://www.w3.org/WAI/WCAG21/quickref/#reading-level)[（理解3.1.5）](https://www.w3.org/WAI/WCAG21/Understanding/reading-level)
-[不寻常的单词3.1.3](https://www.w3.org/WAI/WCAG21/quickref/#unusual-words)[（理解3.1.3）](https://www.w3.org/WAI/WCAG21/Understanding/unusual-words)
-[缩写3.1.4](https://www.w3.org/WAI/WCAG21/quickref/#abbreviations)[（理解3.1.4）](https://www.w3.org/WAI/WCAG21/Understanding/abbreviations)
+  - [阅读级别3.1.5](https://www.w3.org/WAI/WCAG21/quickref/#reading-level)[（理解3.1.5）](https://www.w3.org/WAI/WCAG21/Understanding/reading-level)
+  - [不寻常的单词3.1.3](https://www.w3.org/WAI/WCAG21/quickref/#unusual-words)[（理解3.1.3）](https://www.w3.org/WAI/WCAG21/Understanding/unusual-words)
+  - [缩写3.1.4](https://www.w3.org/WAI/WCAG21/quickref/#abbreviations)[（理解3.1.4）](https://www.w3.org/WAI/WCAG21/Understanding/abbreviations)
 - 用户的故事
 [阅读障碍者受益于易于阅读的文本](https://www.w3.org/WAI/people-use-web/user-stories/#classroomstudent)
 
